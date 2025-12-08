@@ -2,6 +2,10 @@
 
 **Project Description:** Machine learning pipeline to detect and classify rare credit card fraud instances in a highly imbalanced dataset with a 0.172% fraud rate.
 
+
+**#### PLEASE NOTE ####**
+"This dataset is publicly available on Kaggle (or the original source). To run the project, please download the creditcard.csv file from the source and place it into a directory named data/ in the root of this project."
+
 ---
 
 ## 1. Project Goals and Challenges
